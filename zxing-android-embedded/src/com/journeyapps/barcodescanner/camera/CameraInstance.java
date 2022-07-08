@@ -5,7 +5,7 @@ import android.os.Handler;
 import android.util.Log;
 import android.view.SurfaceHolder;
 
-import com.ssos.support.R;
+import com.banana.support.R;
 import com.journeyapps.barcodescanner.Size;
 import com.journeyapps.barcodescanner.Util;
 

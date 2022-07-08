@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 
 import com.google.zxing.DecodeHintType;
 import com.google.zxing.ResultPoint;
-import com.ssos.support.R;
+import com.banana.support.R;
 
 import java.util.HashMap;
 import java.util.List;

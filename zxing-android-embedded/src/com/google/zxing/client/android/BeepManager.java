@@ -27,7 +27,7 @@ import android.os.Build;
 import android.os.Vibrator;
 import android.util.Log;
 
-import com.ssos.support.R;
+import com.banana.support.R;
 import java.io.IOException;
 
 /**

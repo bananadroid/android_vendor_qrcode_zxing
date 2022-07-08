@@ -21,7 +21,7 @@ import android.view.TextureView;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-import com.ssos.support.R;
+import com.banana.support.R;
 import com.journeyapps.barcodescanner.camera.CameraInstance;
 import com.journeyapps.barcodescanner.camera.CameraParametersCallback;
 import com.journeyapps.barcodescanner.camera.CameraSettings;
